@@ -1,2 +1,2 @@
-# Test log details
+# Test details
 
